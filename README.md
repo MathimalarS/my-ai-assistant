@@ -169,3 +169,6 @@ Auto-generated Swagger UI.
 - **Multi-provider LLM** — Anthropic / OpenAI / Ollama swap via env var
 - **Document parsing** — PDF and plain text chunking with overlap
 - **Clean architecture** — no circular imports, separated models, modular design
+
+##UI
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/5d591377-7b14-4066-99ff-7db1d0aab34f" />
